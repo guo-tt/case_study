@@ -1,0 +1,59 @@
+# Data Science and Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+scikit-learn>=1.3.0
+statsmodels>=0.14.0
+
+# Machine Learning and Deep Learning
+xgboost>=1.7.0
+lightgbm>=4.0.0
+tensorflow>=2.13.0
+torch>=2.0.0
+scikit-optimize>=0.9.0
+
+# Time Series Analysis
+prophet>=1.1.0
+arch>=6.0.0
+pmdarima>=2.0.0
+
+# Optimization
+cvxpy>=1.3.0
+pulp>=2.7.0
+ecos
+
+
+# Data Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+bokeh>=3.2.0
+altair>=5.0.0
+
+# Web Dashboard
+streamlit>=1.25.0
+dash>=2.12.0
+
+# Data Collection and APIs
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+selenium>=4.11.0
+
+# Database and Storage
+sqlalchemy>=2.0.0
+
+# Utilities
+tqdm>=4.65.0
+joblib>=1.3.0
+python-dotenv>=1.0.0
+configparser>=5.3.0
+PyYAML>=6.0
+
+# Jupyter and Development
+jupyter>=1.0.0
+ipywidgets>=8.0.0
+notebook>=6.5.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0 

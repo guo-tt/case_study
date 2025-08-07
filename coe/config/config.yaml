@@ -1,0 +1,433 @@
+# Singapore COE Data Configuration
+
+# Data Sources
+data_sources:
+  coe_quota_premium:
+    dataset_id: "d_22094bf608253d36c0c63b52d852dd6e"
+    url: "https://data.gov.sg/api/action/datastore_search"
+    description: "Motor Vehicle Quota, Quota Premium And Prevailing Quota Premium, Monthly"
+    source_url: "https://data.gov.sg/datasets/d_22094bf608253d36c0c63b52d852dd6e/view"
+    fields:
+      - "DataSeries"
+      - "2025Jun"
+      - "2025May"
+      - "2025Apr"
+      - "2025Mar"
+      - "2025Feb"
+      - "2025Jan"
+      - "2024Dec"
+      - "2024Nov"
+      - "2024Oct"
+      - "2024Sep"
+      - "2024Aug"
+      - "2024Jul"
+      - "2024Jun"
+      - "2024May"
+      - "2024Apr"
+      - "2024Mar"
+      - "2024Feb"
+      - "2024Jan"
+      - "2023Dec"
+      - "2023Nov"
+      - "2023Oct"
+      - "2023Sep"
+      - "2023Aug"
+      - "2023Jul"
+      - "2023Jun"
+      - "2023May"
+      - "2023Apr"
+      - "2023Mar"
+      - "2023Feb"
+      - "2023Jan"
+      - "2022Dec"
+      - "2022Nov"
+      - "2022Oct"
+      - "2022Sep"
+      - "2022Aug"
+      - "2022Jul"
+      - "2022Jun"
+      - "2022May"
+      - "2022Apr"
+      - "2022Mar"
+      - "2022Feb"
+      - "2022Jan"
+      - "2021Dec"
+      - "2021Nov"
+      - "2021Oct"
+      - "2021Sep"
+      - "2021Aug"
+      - "2021Jul"
+      - "2021Jun"
+      - "2021May"
+      - "2021Apr"
+      - "2021Mar"
+      - "2021Feb"
+      - "2021Jan"
+      - "2020Dec"
+      - "2020Nov"
+      - "2020Oct"
+      - "2020Sep"
+      - "2020Aug"
+      - "2020Jul"
+      - "2020Jun"
+      - "2020May"
+      - "2020Apr"
+      - "2020Mar"
+      - "2020Feb"
+      - "2020Jan"
+      - "2019Dec"
+      - "2019Nov"
+      - "2019Oct"
+      - "2019Sep"
+      - "2019Aug"
+      - "2019Jul"
+      - "2019Jun"
+      - "2019May"
+      - "2019Apr"
+      - "2019Mar"
+      - "2019Feb"
+      - "2019Jan"
+      - "2018Dec"
+      - "2018Nov"
+      - "2018Oct"
+      - "2018Sep"
+      - "2018Aug"
+      - "2018Jul"
+      - "2018Jun"
+      - "2018May"
+      - "2018Apr"
+      - "2018Mar"
+      - "2018Feb"
+      - "2018Jan"
+      - "2017Dec"
+      - "2017Nov"
+      - "2017Oct"
+      - "2017Sep"
+      - "2017Aug"
+      - "2017Jul"
+      - "2017Jun"
+      - "2017May"
+      - "2017Apr"
+      - "2017Mar"
+      - "2017Feb"
+      - "2017Jan"
+      - "2016Dec"
+      - "2016Nov"
+      - "2016Oct"
+      - "2016Sep"
+      - "2016Aug"
+      - "2016Jul"
+      - "2016Jun"
+      - "2016May"
+      - "2016Apr"
+      - "2016Mar"
+      - "2016Feb"
+      - "2016Jan"
+      - "2015Dec"
+      - "2015Nov"
+      - "2015Oct"
+      - "2015Sep"
+      - "2015Aug"
+      - "2015Jul"
+      - "2015Jun"
+      - "2015May"
+      - "2015Apr"
+      - "2015Mar"
+      - "2015Feb"
+      - "2015Jan"
+      - "2014Dec"
+      - "2014Nov"
+      - "2014Oct"
+      - "2014Sep"
+      - "2014Aug"
+      - "2014Jul"
+      - "2014Jun"
+      - "2014May"
+      - "2014Apr"
+      - "2014Mar"
+      - "2014Feb"
+      - "2014Jan"
+      - "2013Dec"
+      - "2013Nov"
+      - "2013Oct"
+      - "2013Sep"
+      - "2013Aug"
+      - "2013Jul"
+      - "2013Jun"
+      - "2013May"
+      - "2013Apr"
+      - "2013Mar"
+      - "2013Feb"
+      - "2013Jan"
+      - "2012Dec"
+      - "2012Nov"
+      - "2012Oct"
+      - "2012Sep"
+      - "2012Aug"
+      - "2012Jul"
+      - "2012Jun"
+      - "2012May"
+      - "2012Apr"
+      - "2012Mar"
+      - "2012Feb"
+      - "2012Jan"
+      - "2011Dec"
+      - "2011Nov"
+      - "2011Oct"
+      - "2011Sep"
+      - "2011Aug"
+      - "2011Jul"
+      - "2011Jun"
+      - "2011May"
+      - "2011Apr"
+      - "2011Mar"
+      - "2011Feb"
+      - "2011Jan"
+      - "2010Dec"
+      - "2010Nov"
+      - "2010Oct"
+      - "2010Sep"
+      - "2010Aug"
+      - "2010Jul"
+      - "2010Jun"
+      - "2010May"
+      - "2010Apr"
+      - "2010Mar"
+      - "2010Feb"
+      - "2010Jan"
+      - "2009Dec"
+      - "2009Nov"
+      - "2009Oct"
+      - "2009Sep"
+      - "2009Aug"
+      - "2009Jul"
+      - "2009Jun"
+      - "2009May"
+      - "2009Apr"
+      - "2009Mar"
+      - "2009Feb"
+      - "2009Jan"
+      - "2008Dec"
+      - "2008Nov"
+      - "2008Oct"
+      - "2008Sep"
+      - "2008Aug"
+      - "2008Jul"
+      - "2008Jun"
+      - "2008May"
+      - "2008Apr"
+      - "2008Mar"
+      - "2008Feb"
+      - "2008Jan"
+      - "2007Dec"
+      - "2007Nov"
+      - "2007Oct"
+      - "2007Sep"
+      - "2007Aug"
+      - "2007Jul"
+      - "2007Jun"
+      - "2007May"
+      - "2007Apr"
+      - "2007Mar"
+      - "2007Feb"
+      - "2007Jan"
+      - "2006Dec"
+      - "2006Nov"
+      - "2006Oct"
+      - "2006Sep"
+      - "2006Aug"
+      - "2006Jul"
+      - "2006Jun"
+      - "2006May"
+      - "2006Apr"
+      - "2006Mar"
+      - "2006Feb"
+      - "2006Jan"
+      - "2005Dec"
+      - "2005Nov"
+      - "2005Oct"
+      - "2005Sep"
+      - "2005Aug"
+      - "2005Jul"
+      - "2005Jun"
+      - "2005May"
+      - "2005Apr"
+      - "2005Mar"
+      - "2005Feb"
+      - "2005Jan"
+      - "2004Dec"
+      - "2004Nov"
+      - "2004Oct"
+      - "2004Sep"
+      - "2004Aug"
+      - "2004Jul"
+      - "2004Jun"
+      - "2004May"
+      - "2004Apr"
+      - "2004Mar"
+      - "2004Feb"
+      - "2004Jan"
+      - "2003Dec"
+      - "2003Nov"
+      - "2003Oct"
+      - "2003Sep"
+      - "2003Aug"
+      - "2003Jul"
+      - "2003Jun"
+      - "2003May"
+      - "2003Apr"
+      - "2003Mar"
+      - "2003Feb"
+      - "2003Jan"
+      - "2002Dec"
+      - "2002Nov"
+      - "2002Oct"
+      - "2002Sep"
+      - "2002Aug"
+      - "2002Jul"
+      - "2002Jun"
+      - "2002May"
+      - "2002Apr"
+      - "2002Mar"
+      - "2002Feb"
+    data_series:
+      - "Total Quota, 1st Bidding"
+      - "Total Successful Bids, 1st Bidding"
+      - "Total Bids Received, 1st Bidding"
+      - "Total Quota, 2nd Bidding"
+      - "Total Successful Bids, 2nd Bidding"
+      - "Total Bids Received, 2nd Bidding"
+      - "Cat A Quota Premium, 1st Bidding"
+      - "Cat A Quota Premium, 2nd Bidding"
+      - "Cat B Quota Premium, 1st Bidding"
+      - "Cat B Quota Premium, 2nd Bidding"
+      - "Cat C Quota Premium, 1st Bidding"
+      - "Cat C Quota Premium, 2nd Bidding"
+      - "Cat D Quota Premium, 1st Bidding"
+      - "Cat D Quota Premium, 2nd Bidding"
+      - "Cat E Quota Premium, 1st Bidding"
+      - "Cat E Quota Premium, 2nd Bidding"
+      - "Cat A Prevailing Quota Premium"
+      - "Cat B Prevailing Quota Premium"
+      - "Cat C Prevailing Quota Premium"
+      - "Cat D Prevailing Quota Premium"
+      - "Cat E Prevailing Quota Premium"
+    
+  economic_indicators:
+    dataset_id: "d_69b3380ad7e51aff3a7dcc84eba52b8a"
+    url: "https://data.gov.sg/api/action/datastore_search"
+    description: "COE Bidding Results by Vehicle Category"
+    source_url: "https://data.gov.sg/datasets/d_69b3380ad7e51aff3a7dcc84eba52b8a/view"
+    fields:
+      - "month"
+      - "bidding_no"
+      - "vehicle_class"
+      - "quota"
+      - "bids_success"
+      - "bids_received"
+      - "premium"
+    vehicle_categories:
+      - "Category A"
+      - "Category B"
+      - "Category C"
+      - "Category D"
+      - "Category E"
+
+# COE Categories
+coe_categories:
+  - "Cat A (Cars up to 1600cc & 130bhp)"
+  - "Cat B (Cars above 1600cc or 130bhp)" 
+  - "Cat C (Goods vehicles & buses)"
+  - "Cat D (Motorcycles)"
+  - "Cat E (Open category)"
+
+# Model Configuration
+models:
+  min_records_for_training: 50 # Minimum data points required to train a model for a category
+  arima:
+    order: [5, 1, 0]
+    seasonal_order: [1, 1, 0, 12]
+  time_series:
+    - "ARIMA"
+    - "Prophet"
+    - "LSTM"
+    - "XGBoost"
+    
+  ensemble:
+    voting_weights:
+      arima: 0.2
+      prophet: 0.3
+      lstm: 0.25
+      xgboost: 0.25
+      
+  # 'ensemble' or a specific model like 'lstm', 'xgboost'
+  prediction_strategy: "lstm"
+      
+  training:
+    train_split: 0.8
+    validation_split: 0.1
+    test_split: 0.1
+    
+  hyperparameters:
+    xgboost:
+      n_estimators: 1000
+      max_depth: 6
+      learning_rate: 0.01
+      subsample: 0.8
+      
+    lstm:
+      sequence_length: 12
+      hidden_units: 64
+      dropout: 0.2
+      epochs: 100
+
+# Optimization Parameters
+optimization:
+  objectives:
+    - "price_stability"
+    - "revenue_generation"
+    - "market_efficiency"
+    
+  constraints:
+    min_quota_change: -0.2
+    max_quota_change: 0.2
+    price_sensitivity: 0.5
+    price_volatility_threshold: 0.15
+  objective_weights:
+    price_stability: 0.5
+    revenue_generation: 0.3
+    market_efficiency: 0.2
+    
+  algorithms:
+    - "genetic_algorithm"
+    - "particle_swarm"
+    - "linear_programming"
+
+  algorithm_config:
+    genetic_algorithm:
+      max_iterations: 100
+      population_size: 20
+    particle_swarm:
+      iterations: 200
+      particles: 40
+      timeout_seconds: 120
+
+# Dashboard Configuration
+dashboard:
+  refresh_interval: 3600  # seconds
+  forecast_horizon: 12    # months
+  update_frequency: "daily"
+  
+# File Paths
+paths:
+  raw_data: "data/raw/"
+  processed_data: "data/processed/"
+  models: "data/models/"
+  results: "data/results/"
+  logs: "logs/"
+
+# API Configuration
+api:
+  timeout: 30
+  max_retries: 3
+  rate_limit: 100  # requests per hour 

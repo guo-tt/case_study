@@ -1,0 +1,367 @@
+{
+  "timestamp": "2025-07-27T01:33:24.646569",
+  "data_summary": {
+    "total_records": 13912,
+    "date_range": [
+      "2002-02-01T00:00:00",
+      "2025-06-01T00:00:00"
+    ],
+    "categories": [
+      "Cat E",
+      "Cat B",
+      "Cat A",
+      "Unknown",
+      "Cat C",
+      "Cat D"
+    ]
+  },
+  "predictions": [
+    {
+      "Month_Ahead": 1,
+      "Category": "Cat A",
+      "Predicted_Price": 96592.9609375
+    },
+    {
+      "Month_Ahead": 2,
+      "Category": "Cat A",
+      "Predicted_Price": 96395.0234375
+    },
+    {
+      "Month_Ahead": 3,
+      "Category": "Cat A",
+      "Predicted_Price": 96283.453125
+    },
+    {
+      "Month_Ahead": 4,
+      "Category": "Cat A",
+      "Predicted_Price": 96144.0546875
+    },
+    {
+      "Month_Ahead": 5,
+      "Category": "Cat A",
+      "Predicted_Price": 95980.4921875
+    },
+    {
+      "Month_Ahead": 6,
+      "Category": "Cat A",
+      "Predicted_Price": 95857.9375
+    },
+    {
+      "Month_Ahead": 7,
+      "Category": "Cat A",
+      "Predicted_Price": 95727.328125
+    },
+    {
+      "Month_Ahead": 8,
+      "Category": "Cat A",
+      "Predicted_Price": 95588.7578125
+    },
+    {
+      "Month_Ahead": 9,
+      "Category": "Cat A",
+      "Predicted_Price": 95472.7421875
+    },
+    {
+      "Month_Ahead": 10,
+      "Category": "Cat A",
+      "Predicted_Price": 95329.28125
+    },
+    {
+      "Month_Ahead": 11,
+      "Category": "Cat A",
+      "Predicted_Price": 95161.4765625
+    },
+    {
+      "Month_Ahead": 12,
+      "Category": "Cat A",
+      "Predicted_Price": 94974.90625
+    },
+    {
+      "Month_Ahead": 1,
+      "Category": "Cat B",
+      "Predicted_Price": 108170.8046875
+    },
+    {
+      "Month_Ahead": 2,
+      "Category": "Cat B",
+      "Predicted_Price": 105736.4921875
+    },
+    {
+      "Month_Ahead": 3,
+      "Category": "Cat B",
+      "Predicted_Price": 102654.2890625
+    },
+    {
+      "Month_Ahead": 4,
+      "Category": "Cat B",
+      "Predicted_Price": 98935.6171875
+    },
+    {
+      "Month_Ahead": 5,
+      "Category": "Cat B",
+      "Predicted_Price": 94923.640625
+    },
+    {
+      "Month_Ahead": 6,
+      "Category": "Cat B",
+      "Predicted_Price": 90751.7734375
+    },
+    {
+      "Month_Ahead": 7,
+      "Category": "Cat B",
+      "Predicted_Price": 86744.3984375
+    },
+    {
+      "Month_Ahead": 8,
+      "Category": "Cat B",
+      "Predicted_Price": 82933.4453125
+    },
+    {
+      "Month_Ahead": 9,
+      "Category": "Cat B",
+      "Predicted_Price": 79016.578125
+    },
+    {
+      "Month_Ahead": 10,
+      "Category": "Cat B",
+      "Predicted_Price": 75328.28125
+    },
+    {
+      "Month_Ahead": 11,
+      "Category": "Cat B",
+      "Predicted_Price": 71904.5234375
+    },
+    {
+      "Month_Ahead": 12,
+      "Category": "Cat B",
+      "Predicted_Price": 68744.2890625
+    },
+    {
+      "Month_Ahead": 1,
+      "Category": "Cat C",
+      "Predicted_Price": 62335.453125
+    },
+    {
+      "Month_Ahead": 2,
+      "Category": "Cat C",
+      "Predicted_Price": 61341.359375
+    },
+    {
+      "Month_Ahead": 3,
+      "Category": "Cat C",
+      "Predicted_Price": 60532.0
+    },
+    {
+      "Month_Ahead": 4,
+      "Category": "Cat C",
+      "Predicted_Price": 59662.40234375
+    },
+    {
+      "Month_Ahead": 5,
+      "Category": "Cat C",
+      "Predicted_Price": 58811.8125
+    },
+    {
+      "Month_Ahead": 6,
+      "Category": "Cat C",
+      "Predicted_Price": 58000.4453125
+    },
+    {
+      "Month_Ahead": 7,
+      "Category": "Cat C",
+      "Predicted_Price": 57197.2890625
+    },
+    {
+      "Month_Ahead": 8,
+      "Category": "Cat C",
+      "Predicted_Price": 56417.83984375
+    },
+    {
+      "Month_Ahead": 9,
+      "Category": "Cat C",
+      "Predicted_Price": 55667.83203125
+    },
+    {
+      "Month_Ahead": 10,
+      "Category": "Cat C",
+      "Predicted_Price": 54920.11328125
+    },
+    {
+      "Month_Ahead": 11,
+      "Category": "Cat C",
+      "Predicted_Price": 54191.70703125
+    },
+    {
+      "Month_Ahead": 12,
+      "Category": "Cat C",
+      "Predicted_Price": 53487.2109375
+    },
+    {
+      "Month_Ahead": 1,
+      "Category": "Cat D",
+      "Predicted_Price": 8613.9951171875
+    },
+    {
+      "Month_Ahead": 2,
+      "Category": "Cat D",
+      "Predicted_Price": 8465.3037109375
+    },
+    {
+      "Month_Ahead": 3,
+      "Category": "Cat D",
+      "Predicted_Price": 8318.7392578125
+    },
+    {
+      "Month_Ahead": 4,
+      "Category": "Cat D",
+      "Predicted_Price": 8174.36083984375
+    },
+    {
+      "Month_Ahead": 5,
+      "Category": "Cat D",
+      "Predicted_Price": 8043.87646484375
+    },
+    {
+      "Month_Ahead": 6,
+      "Category": "Cat D",
+      "Predicted_Price": 7904.12255859375
+    },
+    {
+      "Month_Ahead": 7,
+      "Category": "Cat D",
+      "Predicted_Price": 7763.8857421875
+    },
+    {
+      "Month_Ahead": 8,
+      "Category": "Cat D",
+      "Predicted_Price": 7630.67822265625
+    },
+    {
+      "Month_Ahead": 9,
+      "Category": "Cat D",
+      "Predicted_Price": 7500.63916015625
+    },
+    {
+      "Month_Ahead": 10,
+      "Category": "Cat D",
+      "Predicted_Price": 7399.85595703125
+    },
+    {
+      "Month_Ahead": 11,
+      "Category": "Cat D",
+      "Predicted_Price": 7320.1103515625
+    },
+    {
+      "Month_Ahead": 12,
+      "Category": "Cat D",
+      "Predicted_Price": 7238.2255859375
+    },
+    {
+      "Month_Ahead": 1,
+      "Category": "Cat E",
+      "Predicted_Price": 108902.453125
+    },
+    {
+      "Month_Ahead": 2,
+      "Category": "Cat E",
+      "Predicted_Price": 106589.5390625
+    },
+    {
+      "Month_Ahead": 3,
+      "Category": "Cat E",
+      "Predicted_Price": 104226.7421875
+    },
+    {
+      "Month_Ahead": 4,
+      "Category": "Cat E",
+      "Predicted_Price": 101687.9453125
+    },
+    {
+      "Month_Ahead": 5,
+      "Category": "Cat E",
+      "Predicted_Price": 99112.09375
+    },
+    {
+      "Month_Ahead": 6,
+      "Category": "Cat E",
+      "Predicted_Price": 96550.1171875
+    },
+    {
+      "Month_Ahead": 7,
+      "Category": "Cat E",
+      "Predicted_Price": 93948.5234375
+    },
+    {
+      "Month_Ahead": 8,
+      "Category": "Cat E",
+      "Predicted_Price": 91554.8515625
+    },
+    {
+      "Month_Ahead": 9,
+      "Category": "Cat E",
+      "Predicted_Price": 89199.25
+    },
+    {
+      "Month_Ahead": 10,
+      "Category": "Cat E",
+      "Predicted_Price": 86936.734375
+    },
+    {
+      "Month_Ahead": 11,
+      "Category": "Cat E",
+      "Predicted_Price": 84776.71875
+    },
+    {
+      "Month_Ahead": 12,
+      "Category": "Cat E",
+      "Predicted_Price": 82722.3203125
+    }
+  ],
+  "optimization_results": {
+    "status": "success",
+    "best_algorithm": "simple_gradient",
+    "objective_value": -82158383.60679622,
+    "execution_time": 0.144786,
+    "quota_adjustments": {
+      "Cat A": {
+        "current_quota": 1000,
+        "recommended_quota": 1200.0,
+        "change_percentage": 19.999999999999996,
+        "predicted_price": 45643.54645876384
+      },
+      "Cat B": {
+        "current_quota": 1000,
+        "recommended_quota": 1200.0,
+        "change_percentage": 19.999999999999996,
+        "predicted_price": 45643.54645876384
+      },
+      "Cat C": {
+        "current_quota": 1000,
+        "recommended_quota": 1200.0,
+        "change_percentage": 19.999999999999996,
+        "predicted_price": 45643.54645876384
+      },
+      "Cat D": {
+        "current_quota": 1000,
+        "recommended_quota": 1200.0,
+        "change_percentage": 19.999999999999996,
+        "predicted_price": 45643.54645876384
+      },
+      "Cat E": {
+        "current_quota": 1000,
+        "recommended_quota": 1200.0,
+        "change_percentage": 19.999999999999996,
+        "predicted_price": 45643.54645876384
+      }
+    },
+    "policy_summary": "Best algorithm: simple_gradient. Total revenue impact: $273,861,279. Execution time: 0.14s",
+    "all_results": {
+      "simple_gradient": {
+        "objective_value": -82158383.60679622,
+        "execution_time": 0.144786,
+        "convergence_status": "success"
+      }
+    }
+  },
+  "system_status": "operational"
+}

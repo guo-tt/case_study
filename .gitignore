@@ -2,3 +2,7 @@
 *.zip
 *.csv
 *.xlsx
+
+# Ignore large data files
+childcare/code/forecast_data.json
+*.json
